@@ -17,7 +17,7 @@ Resources are back
 
 # Download
 
-[here](https://github.com/Ree-jp/Repop_Resource/releases/download/1.1.0/Repop_Resource_v1.1.0.phar)
+[here](https://github.com/Ree-jp/Repop_Resource/releases/download/1.2.0/Repop_Resource.v1.2.0.phar)
 
 # Author
 
