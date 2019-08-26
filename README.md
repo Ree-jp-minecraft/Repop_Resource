@@ -3,12 +3,14 @@ Repop_Resource
 
 Resources are back
 
+***
 # Japanese
 
 ## コンフィグ
 
 ## 使い方
 
+***
 # English
 
 ## config
