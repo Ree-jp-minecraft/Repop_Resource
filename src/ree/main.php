@@ -37,8 +37,10 @@ class Main extends PluginBase implements Listener {
             $block = $ev->getBlock();
             $vector = $block->asVector3();
             $level = $p->getlevel();
-            $this->getScheduler()->scheduleDelayedTask(new RepopTask($vector,$block,$level), $this->time);
-            
+            if($this->block != $block->getId())
+            {
+                $this->getScheduler()->scheduleDelayedTask(new RepopTask($vector,$block,$level), $this->time);
+            }
             $this->getScheduler()->scheduleDelayedTask(new BlockTask($vector,$this->block,$level), 1);
         }
     }
