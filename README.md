@@ -17,10 +17,12 @@ Resources are back
 
 ## How to use
 
+***
 # Download
 
 [here](https://github.com/Ree-jp/Repop_Resource/releases/download/1.2.0/Repop_Resource.v1.2.0.phar)
 
+***
 # Author
 
 [Ree-jp](https://github.com/Ree-jp)
