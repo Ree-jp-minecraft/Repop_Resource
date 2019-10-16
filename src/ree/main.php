@@ -1,5 +1,20 @@
 <?php
 
+/*
+ * _____                  _
+ *|  __ \                (_)
+ *| |__) |___  ___ ______ _ _ __
+ *|  _  // _ \/ _ \______| | '_ \
+ *| | \ \  __/  __/      | | |_) |
+ *|_|  \_\___|\___|      | | .__/
+ *                      _/ | |
+ *                     |__/|_|
+ *
+ * Resources are back
+ *
+ * @copyright 2019 Ree_jp
+ */
+
 namespace ree;
 
 use pocketmine\plugin\PluginBase;
